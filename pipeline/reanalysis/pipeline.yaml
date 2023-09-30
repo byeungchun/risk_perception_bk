@@ -1,0 +1,11 @@
+meta:
+  extract_upstream: False
+
+tasks:
+  - source: tasks/process_risk.ipynb
+    name: process_risk
+    product:
+      nb: products/process_risk.ipynb
+      data: products/risk_mean.csv
+    params:
+      studay1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\Study 1A and 1B - Risk Ratings.csv'
