@@ -10,3 +10,12 @@ tasks:
     params:
       study1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 1A and 1B - Risk Ratings.csv'
       study2_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 2 - Risk Ratings.csv'
+
+  - source: tasks/process_psych.ipynb
+    name: process_psych
+    product:
+      nb: products/process_psych.ipynb
+      data: products/psych_mean.csv
+    params:
+      study1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 1A and 1B - Psychometric Dimensions.csv'
+      study2_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 2 - Psychometric Dimensions.csv'
