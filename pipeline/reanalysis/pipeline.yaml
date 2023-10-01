@@ -8,4 +8,5 @@ tasks:
       nb: products/process_risk.ipynb
       data: products/risk_mean.csv
     params:
-      studay1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\Study 1A and 1B - Risk Ratings.csv'
+      study1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 1A and 1B - Risk Ratings.csv'
+      study2_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 2 - Risk Ratings.csv'
