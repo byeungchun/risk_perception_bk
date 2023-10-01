@@ -19,3 +19,20 @@ tasks:
     params:
       study1a1b_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 1A and 1B - Psychometric Dimensions.csv'
       study2_csv: r'{{zak_code_dir}}\reanalysis\data\raw\bhatia\Study 2 - Psychometric Dimensions.csv'
+  
+  - source: tasks/pulling_embeds.ipynb
+    name: pulling_embeds
+    upstream: [process_risk, process_psych]
+    product:
+      nb: products/pulling_embeds.ipynb
+      swow: products/swow.csv
+      w2v: products/w2v.csv
+      ft: products/ft.csv
+      glove: products/glove.csv
+      risk: products/risk.csv
+      psych: products/psych.csv
+    params:
+      swow_csv: r'{{zak_code_dir}}\reanalysis\data\processed\swow.csv'
+      w2v_googlenews: r'{{zak_code_dir}}\reanalysis\data\raw\GoogleNews-vectors-negative300.bin'
+      vec_crawl: r'{{zak_code_dir}}\reanalysis\data\raw\crawl-300d-2M.vec'
+      vec_glove: r'{{zak_code_dir}}\reanalysis\data\raw\glove.840B.300d.txt'
