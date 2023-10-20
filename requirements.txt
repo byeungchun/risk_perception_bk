@@ -1,0 +1,7 @@
+pandas
+pandas_datareader
+spacy
+tqdm
+streamlit
+streamlit_jupyter
+altair
