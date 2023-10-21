@@ -26,7 +26,7 @@ VIX is the volatility index of the S&P 500.
 
 - Basel Risk Norms: Hussain, Z., Mata, R., & Wulff, D. U. (2023, July 27). Novel embeddings improve the prediction of risk perception. https://doi.org/10.31234/osf.io/yrjfb
 - Financial news: US financial news articles from Kaggle. https://www.kaggle.com/datasets/jeet2016/us-financial-news-articles
-- Time period: 2018-01-01 to 2018-05-31
+  - Time period (6 months): 2018-01-01 to 2018-05-31
 - Number of news articles: {str(df_riskvix.shape[0])}
 """
 )
