@@ -20,26 +20,31 @@ st.set_page_config(page_title="Risk words & VIX index correlation", layout="wide
 st.title("Risk words & VIX index correlation")
 st.write(
     f"""
-This is a test for the correlation between the risk words of financial news and VIX.
-Risk words are defined in the Basel Risk Norms  with risk scores.
-VIX is the volatility index of the S&P 500.
+It provides a table combines risk words, their scores, and the VIX index. Risk words are extracted from news articles using the Basel Risk Norms. The risk score for each word is calculated based on the methodology of Hussain et al. (2023).
+To calculate the correlation between risk words and VIX index, please enter the parameters in the sidebar. 
 
 - Basel Risk Norms: Hussain, Z., Mata, R., & Wulff, D. U. (2023, July 27). Novel embeddings improve the prediction of risk perception. https://doi.org/10.31234/osf.io/yrjfb
 - Financial news: US financial news articles from Kaggle. https://www.kaggle.com/datasets/jeet2016/us-financial-news-articles
   - Time period (6 months): 2018-01-01 to 2018-05-31
-- Number of news articles: {str(df_riskvix.shape[0])}
+  - Number of news articles: {str(df_riskvix.shape[0])}
+- VIX: Volatility index of the S&P 500.
+
 """
 )
+# chk_predata = st.checkbox("View Processed data")
 
 with st.sidebar:
+    st.subheader("Parameters", divider="rainbow")
     riskword_score_threshold = st.text_input(
-        "Risk word score threshold:",
+        "Risk score cutoff:",
         "",
         placeholder="enter a number between -100 and 100",
+        help="Risk words with scores, calculated by Hussain et.al.(2023), above the cutoff will be included in the calculation of risk score.",
     )
 
     rollup_freq = st.selectbox(
-        "Rollup frequency:", ["D (daily)", "W (Weekly)", "M (Monthly)"]
+        "Aggregation frequency:", ["D (daily)", "W (Weekly)", "M (Monthly)"],
+        help="The frequency to aggregate the risk score and VIX index. For example, if you select 'Weekly', the risk score and VIX index will be aggregated by week."
     )
 
 
