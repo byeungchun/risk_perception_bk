@@ -51,8 +51,8 @@ with st.sidebar:
 if riskword_score_threshold == "":
     pass
 
-elif not str(riskword_score_threshold).isnumeric():
-    st.error(f"riskword_score_threshold ({riskword_score_threshold}) is not numeric.")
+elif not str(riskword_score_threshold).lstrip('-').isnumeric():
+    st.error(f"riskword score cutoff ({riskword_score_threshold}) is not numeric.")
 
 else:
     with st.spinner("Calculating risk score..."):
