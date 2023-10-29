@@ -5,3 +5,5 @@ tqdm
 streamlit
 streamlit_jupyter
 altair
+matplotlib
+openpyxl
