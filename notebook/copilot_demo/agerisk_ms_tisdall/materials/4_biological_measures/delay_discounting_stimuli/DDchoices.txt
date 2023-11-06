@@ -1,0 +1,81 @@
+"trial" "ss_reward" "ss_delay" "ll_reward" "ll_delay" "ssllDiff_perc"
+"1" 1 37.69 "Heute" 38.07 "2 Wochen" 0.01
+"2" 2 24.28 "Heute" 25 "2 Wochen" 0.03
+"3" 3 10.51 "Heute" 11.04 "2 Wochen" 0.05
+"4" 4 13.42 "Heute" 14.77 "2 Wochen" 0.1
+"5" 5 32.79 "Heute" 37.71 "2 Wochen" 0.15
+"6" 6 10.5 "Heute" 13.13 "2 Wochen" 0.25
+"7" 7 19.45 "Heute" 26.26 "2 Wochen" 0.35
+"8" 8 14.49 "Heute" 21.74 "2 Wochen" 0.5
+"9" 9 22.32 "Heute" 22.54 "2 Wochen" 0.01
+"10" 10 21.66 "Heute" 22.31 "2 Wochen" 0.03
+"11" 11 24.85 "Heute" 26.09 "2 Wochen" 0.05
+"12" 12 21.96 "Heute" 24.16 "2 Wochen" 0.1
+"13" 13 16.21 "Heute" 18.64 "2 Wochen" 0.15
+"14" 14 27.84 "Heute" 34.8 "2 Wochen" 0.25
+"15" 15 16.47 "Heute" 22.24 "2 Wochen" 0.35
+"16" 16 19.29 "Heute" 28.94 "2 Wochen" 0.5
+"17" 17 22.32 "Heute" 22.55 "4 Wochen" 0.01
+"18" 18 5.78 "Heute" 5.95 "4 Wochen" 0.03
+"19" 19 28.48 "Heute" 29.91 "4 Wochen" 0.05
+"20" 20 30.4 "Heute" 33.44 "4 Wochen" 0.1
+"21" 21 19.12 "Heute" 21.99 "4 Wochen" 0.15
+"22" 22 18.4 "Heute" 23 "4 Wochen" 0.25
+"23" 23 6.11 "Heute" 8.25 "4 Wochen" 0.35
+"24" 24 11.37 "Heute" 17.06 "4 Wochen" 0.5
+"25" 25 9.89 "Heute" 9.99 "4 Wochen" 0.01
+"26" 26 38.48 "Heute" 39.63 "4 Wochen" 0.03
+"27" 27 22.78 "Heute" 23.92 "4 Wochen" 0.05
+"28" 28 6.41 "Heute" 7.05 "4 Wochen" 0.1
+"29" 29 32.7 "Heute" 37.6 "4 Wochen" 0.15
+"30" 30 25.92 "Heute" 32.4 "4 Wochen" 0.25
+"31" 31 23.44 "Heute" 31.64 "4 Wochen" 0.35
+"32" 32 11.53 "Heute" 17.29 "4 Wochen" 0.5
+"33" 33 25.56 "2 Wochen" 25.82 "4 Wochen" 0.01
+"34" 34 7.42 "2 Wochen" 7.64 "4 Wochen" 0.03
+"35" 35 20.14 "2 Wochen" 21.15 "4 Wochen" 0.05
+"36" 36 18.11 "2 Wochen" 19.92 "4 Wochen" 0.1
+"37" 37 17.36 "2 Wochen" 19.96 "4 Wochen" 0.15
+"38" 38 32.44 "2 Wochen" 40.55 "4 Wochen" 0.25
+"39" 39 14.56 "2 Wochen" 19.66 "4 Wochen" 0.35
+"40" 40 12.44 "2 Wochen" 18.66 "4 Wochen" 0.5
+"41" 41 11.65 "2 Wochen" 11.77 "4 Wochen" 0.01
+"42" 42 9.5 "2 Wochen" 9.79 "4 Wochen" 0.03
+"43" 43 24.99 "2 Wochen" 26.24 "4 Wochen" 0.05
+"44" 44 22.39 "2 Wochen" 24.62 "4 Wochen" 0.1
+"45" 45 36.8 "2 Wochen" 42.32 "4 Wochen" 0.15
+"46" 46 30.77 "2 Wochen" 38.46 "4 Wochen" 0.25
+"47" 47 20.07 "2 Wochen" 27.1 "4 Wochen" 0.35
+"48" 48 22.77 "2 Wochen" 34.16 "4 Wochen" 0.5
+"49" 49 23.7 "2 Wochen" 23.94 "6 Wochen" 0.01
+"50" 50 20.53 "2 Wochen" 21.14 "6 Wochen" 0.03
+"51" 51 37.85 "2 Wochen" 39.74 "6 Wochen" 0.05
+"52" 52 30.66 "2 Wochen" 33.73 "6 Wochen" 0.1
+"53" 53 35.19 "2 Wochen" 40.46 "6 Wochen" 0.15
+"54" 54 14.88 "2 Wochen" 18.61 "6 Wochen" 0.25
+"55" 55 29.45 "2 Wochen" 39.75 "6 Wochen" 0.35
+"56" 56 26.96 "2 Wochen" 40.44 "6 Wochen" 0.5
+"57" 57 28.25 "2 Wochen" 28.53 "6 Wochen" 0.01
+"58" 58 12.69 "2 Wochen" 13.07 "6 Wochen" 0.03
+"59" 59 11.17 "2 Wochen" 11.73 "6 Wochen" 0.05
+"60" 60 6.45 "2 Wochen" 7.1 "6 Wochen" 0.1
+"61" 61 18.24 "2 Wochen" 20.97 "6 Wochen" 0.15
+"62" 62 25.3 "2 Wochen" 31.63 "6 Wochen" 0.25
+"63" 63 25.61 "2 Wochen" 34.57 "6 Wochen" 0.35
+"64" 64 26.95 "2 Wochen" 40.42 "6 Wochen" 0.5
+"65" 65 13.22 "4 Wochen" 13.35 "6 Wochen" 0.01
+"66" 66 11.96 "4 Wochen" 12.32 "6 Wochen" 0.03
+"67" 67 6.26 "4 Wochen" 6.57 "6 Wochen" 0.05
+"68" 68 25.55 "4 Wochen" 28.11 "6 Wochen" 0.1
+"69" 69 22.62 "4 Wochen" 26.01 "6 Wochen" 0.15
+"70" 70 25.9 "4 Wochen" 32.37 "6 Wochen" 0.25
+"71" 71 10.98 "4 Wochen" 14.83 "6 Wochen" 0.35
+"72" 72 29.27 "4 Wochen" 43.91 "6 Wochen" 0.5
+"73" 73 9.59 "4 Wochen" 9.68 "6 Wochen" 0.01
+"74" 74 13.42 "4 Wochen" 13.82 "6 Wochen" 0.03
+"75" 75 20.18 "4 Wochen" 21.19 "6 Wochen" 0.05
+"76" 76 22.92 "4 Wochen" 25.21 "6 Wochen" 0.1
+"77" 77 25.13 "4 Wochen" 28.9 "6 Wochen" 0.15
+"78" 78 18.61 "4 Wochen" 23.27 "6 Wochen" 0.25
+"79" 79 14.58 "4 Wochen" 19.68 "6 Wochen" 0.35
+"80" 80 9.39 "4 Wochen" 14.08 "6 Wochen" 0.5

@@ -1,0 +1,1201 @@
+id,testosterone,sample,sample_day,sample_day_time,gender,age_ys_s1,smoking,smoking_freq,smoking_products,use_steroids,steroids_freq,steroids_products,use_hormones,hormones_freq,hormones_products
+sxgux,26.86,1,1,morning_1,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+sxgux,4.27,2,1,morning_2,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+sxgux,1.52,3,1,evening,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+sxgux,47.27,4,2,morning_1,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+sxgux,34,5,2,morning_2,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+sxgux,0.78,6,2,evening,female,19.42,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3koq0,35.32,1,1,morning_1,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+3koq0,32.43,2,1,morning_2,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+3koq0,20.28,3,1,evening,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+3koq0,11.59,4,2,morning_1,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+3koq0,63.92,5,2,morning_2,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+3koq0,5.67,6,2,evening,male,21.54,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+bustq,NA,1,1,morning_1,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bustq,NA,2,1,morning_2,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bustq,NA,3,1,evening,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bustq,NA,4,2,morning_1,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bustq,NA,5,2,morning_2,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bustq,NA,6,2,evening,male,19.62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rdalr,86.59,1,1,morning_1,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+rdalr,18.67,2,1,morning_2,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+rdalr,2.75,3,1,evening,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+rdalr,44.92,4,2,morning_1,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+rdalr,91.05,5,2,morning_2,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+rdalr,1.25,6,2,evening,male,23.91,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,19.35,1,1,morning_1,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,15.09,2,1,morning_2,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,0.52,3,1,evening,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,5.95,4,2,morning_1,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,4.44,5,2,morning_2,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+qi9ld,5.44,6,2,evening,female,35.63,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,82.7,1,1,morning_1,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,46.92,2,1,morning_2,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,27.49,3,1,evening,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,57.64,4,2,morning_1,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,162.54,5,2,morning_2,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gh664,5.35,6,2,evening,male,23.7,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,56.39,1,1,morning_1,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,28.33,2,1,morning_2,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,4.1,3,1,evening,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,73.85,4,2,morning_1,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,15.89,5,2,morning_2,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+gmng,26,6,2,evening,male,22.06,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,81.75,1,1,morning_1,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,8.17,2,1,morning_2,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,9.53,3,1,evening,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,98.16,4,2,morning_1,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,12.15,5,2,morning_2,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+7hgj7,25.51,6,2,evening,female,24.13,no,NA,NA,no,NA,NA,no,NA,NA
+eq4sk,0.22,1,1,morning_1,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+eq4sk,12.48,2,1,morning_2,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+eq4sk,6.78,3,1,evening,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+eq4sk,62,4,2,morning_1,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+eq4sk,4.73,5,2,morning_2,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+eq4sk,4.14,6,2,evening,female,21.61,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+93otj,46.02,1,1,morning_1,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+93otj,35.54,2,1,morning_2,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+93otj,20.25,3,1,evening,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+93otj,24.71,4,2,morning_1,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+93otj,115.63,5,2,morning_2,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+93otj,54.38,6,2,evening,male,64.12,no,NA,NA,no,NA,NA,no,NA,NA
+ys0pg,87.96,1,1,morning_1,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+ys0pg,59.57,2,1,morning_2,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+ys0pg,44.95,3,1,evening,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+ys0pg,26.46,4,2,morning_1,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+ys0pg,63.26,5,2,morning_2,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+ys0pg,29.19,6,2,evening,male,23.46,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+jjgta,54.81,1,1,morning_1,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+jjgta,46.66,2,1,morning_2,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+jjgta,0.38,3,1,evening,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+jjgta,16.36,4,2,morning_1,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+jjgta,24.16,5,2,morning_2,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+jjgta,3.7,6,2,evening,female,43.83,yes,11-20 per day,NA,no,NA,NA,yes,NA,contraceptive implant (intrauterine)
+729dc,29.86,1,1,morning_1,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+729dc,21.26,2,1,morning_2,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+729dc,0.76,3,1,evening,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+729dc,15.96,4,2,morning_1,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+729dc,4.86,5,2,morning_2,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+729dc,1.93,6,2,evening,female,66.26,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,22.28,1,1,morning_1,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,30.9,2,1,morning_2,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,5.46,3,1,evening,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,16.85,4,2,morning_1,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,14.81,5,2,morning_2,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hahgk,0.5,6,2,evening,female,51.52,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,7.79,1,1,morning_1,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,7.59,2,1,morning_2,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,0.12,3,1,evening,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,12.1,4,2,morning_1,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,1.38,5,2,morning_2,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+hgx8z,1.79,6,2,evening,female,45.15,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,50.81,1,1,morning_1,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,13.5,2,1,morning_2,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,14.81,3,1,evening,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,50.75,4,2,morning_1,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,47.15,5,2,morning_2,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+7lowo,15.54,6,2,evening,male,66.36,no,NA,NA,no,NA,NA,no,NA,NA
+9p6ed,35.22,1,1,morning_1,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+9p6ed,7.74,2,1,morning_2,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+9p6ed,10.16,3,1,evening,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+9p6ed,17.66,4,2,morning_1,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+9p6ed,33.18,5,2,morning_2,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+9p6ed,7.32,6,2,evening,female,57.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+ojsw9,22.96,1,1,morning_1,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+ojsw9,0.98,2,1,morning_2,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+ojsw9,0.83,3,1,evening,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+ojsw9,12.48,4,2,morning_1,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+ojsw9,2.14,5,2,morning_2,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+ojsw9,0.4,6,2,evening,female,41.57,no,NA,NA,yes,twice daily or less,asthma medication,yes,1 per day,contraceptive implant (subcutaneous)
+v5z5f,35.54,1,1,morning_1,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+v5z5f,20.47,2,1,morning_2,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+v5z5f,2.77,3,1,evening,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+v5z5f,44.07,4,2,morning_1,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+v5z5f,15.27,5,2,morning_2,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+v5z5f,4.87,6,2,evening,female,18.82,no,NA,NA,no,NA,NA,yes,1 per day,thyroid medication
+jh6y7,22.28,1,1,morning_1,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+jh6y7,28.39,2,1,morning_2,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+jh6y7,20.4,3,1,evening,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+jh6y7,6.14,4,2,morning_1,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+jh6y7,29.75,5,2,morning_2,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+jh6y7,11.56,6,2,evening,female,19.21,yes,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,45.62,1,1,morning_1,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,18.31,2,1,morning_2,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,15.57,3,1,evening,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,34.31,4,2,morning_1,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,59.41,5,2,morning_2,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+7dfnm,5.66,6,2,evening,male,53.64,no,NA,NA,no,NA,NA,no,NA,NA
+xz00c,125.36,1,1,morning_1,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xz00c,134.01,2,1,morning_2,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xz00c,196.7,3,1,evening,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xz00c,117.22,4,2,morning_1,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xz00c,50.66,5,2,morning_2,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xz00c,62.34,6,2,evening,male,29.48,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+tgvti,120.44,1,1,morning_1,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+tgvti,88.59,2,1,morning_2,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+tgvti,19.02,3,1,evening,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+tgvti,87.5,4,2,morning_1,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+tgvti,65.1,5,2,morning_2,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+tgvti,33.25,6,2,evening,male,27.63,no,NA,NA,no,NA,NA,no,NA,NA
+dkypf,8.83,1,1,morning_1,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+dkypf,0.81,2,1,morning_2,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+dkypf,0.22,3,1,evening,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+dkypf,1.45,4,2,morning_1,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+dkypf,1.86,5,2,morning_2,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+dkypf,4.38,6,2,evening,female,24.96,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive (unspecified)
+n4vnl,101.77,1,1,morning_1,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+n4vnl,112.57,2,1,morning_2,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+n4vnl,38.1,3,1,evening,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+n4vnl,155.56,4,2,morning_1,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+n4vnl,83.27,5,2,morning_2,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+n4vnl,45.77,6,2,evening,male,26.77,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,25.61,1,1,morning_1,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,17.04,2,1,morning_2,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,7.42,3,1,evening,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,36.18,4,2,morning_1,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,8.51,5,2,morning_2,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+308qp,16.56,6,2,evening,female,34.25,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+lj0cp,267.27,1,1,morning_1,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+lj0cp,141.3,2,1,morning_2,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+lj0cp,25.06,3,1,evening,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+lj0cp,255.06,4,2,morning_1,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+lj0cp,185.9,5,2,morning_2,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+lj0cp,3.06,6,2,evening,male,41.9,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+4ct26,62.86,1,1,morning_1,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+4ct26,1.35,2,1,morning_2,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+4ct26,1.66,3,1,evening,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+4ct26,27.23,4,2,morning_1,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+4ct26,7.47,5,2,morning_2,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+4ct26,6.24,6,2,evening,female,23.76,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+jbzsy,4.07,1,1,morning_1,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+jbzsy,6.94,2,1,morning_2,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+jbzsy,1.03,3,1,evening,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+jbzsy,1.04,4,2,morning_1,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+jbzsy,11.34,5,2,morning_2,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+jbzsy,3.09,6,2,evening,female,54.3,no,NA,NA,no,NA,NA,no,NA,NA
+dgexv,31.38,1,1,morning_1,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+dgexv,6.26,2,1,morning_2,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+dgexv,19.57,3,1,evening,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+dgexv,31.98,4,2,morning_1,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+dgexv,4.24,5,2,morning_2,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+dgexv,20.65,6,2,evening,female,27.89,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,NA
+olcpz,0.86,1,1,morning_1,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+olcpz,1.22,2,1,morning_2,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+olcpz,0,3,1,evening,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+olcpz,0,4,2,morning_1,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+olcpz,1.33,5,2,morning_2,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+olcpz,0.1,6,2,evening,female,20.74,no,NA,NA,no,NA,NA,yes,1 per day,NA
+uo69g,45.64,1,1,morning_1,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+uo69g,15.24,2,1,morning_2,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+uo69g,31.81,3,1,evening,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+uo69g,33.31,4,2,morning_1,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+uo69g,12.5,5,2,morning_2,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+uo69g,11.79,6,2,evening,male,54.28,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+y6pi7,2.1,1,1,morning_1,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+y6pi7,3.93,2,1,morning_2,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+y6pi7,0,3,1,evening,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+y6pi7,0.86,4,2,morning_1,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+y6pi7,0.18,5,2,morning_2,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+y6pi7,0.76,6,2,evening,female,61.1,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,3.81,1,1,morning_1,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,0,2,1,morning_2,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,0,3,1,evening,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,0.51,4,2,morning_1,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,1.01,5,2,morning_2,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+h6clg,0,6,2,evening,female,48.88,no,NA,NA,no,NA,NA,no,NA,NA
+xsi0e,0.75,1,1,morning_1,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+xsi0e,3.58,2,1,morning_2,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+xsi0e,3.36,3,1,evening,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+xsi0e,3.6,4,2,morning_1,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+xsi0e,1.37,5,2,morning_2,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+xsi0e,3.43,6,2,evening,female,50.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+pzgm3,13.59,1,1,morning_1,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+pzgm3,6.53,2,1,morning_2,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+pzgm3,0,3,1,evening,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+pzgm3,16.84,4,2,morning_1,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+pzgm3,2.35,5,2,morning_2,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+pzgm3,0.13,6,2,evening,female,44.38,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+lkt4j,18.76,1,1,morning_1,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+lkt4j,4.14,2,1,morning_2,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+lkt4j,2.93,3,1,evening,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+lkt4j,56.48,4,2,morning_1,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+lkt4j,5.4,5,2,morning_2,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+lkt4j,2.18,6,2,evening,female,22.54,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,76.15,1,1,morning_1,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,29.15,2,1,morning_2,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,15.18,3,1,evening,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,27.93,4,2,morning_1,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,16.44,5,2,morning_2,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+j24y0,1.24,6,2,evening,male,49.99,no,NA,NA,no,NA,NA,no,NA,NA
+hab20,115.94,1,1,morning_1,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hab20,57.33,2,1,morning_2,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hab20,5.57,3,1,evening,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hab20,80.96,4,2,morning_1,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hab20,71.16,5,2,morning_2,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hab20,44.58,6,2,evening,male,20.17,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2bwmd,122.28,1,1,morning_1,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+2bwmd,91.6,2,1,morning_2,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+2bwmd,23.97,3,1,evening,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+2bwmd,133.17,4,2,morning_1,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+2bwmd,93.6,5,2,morning_2,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+2bwmd,27.94,6,2,evening,male,26.01,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,102.14,1,1,morning_1,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,66.68,2,1,morning_2,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,22.67,3,1,evening,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,131.99,4,2,morning_1,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,79.45,5,2,morning_2,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+f3wlt,8.24,6,2,evening,male,17.73,no,NA,NA,no,NA,NA,no,NA,NA
+w5zs,9.56,1,1,morning_1,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+w5zs,3.58,2,1,morning_2,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+w5zs,0.64,3,1,evening,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+w5zs,14.88,4,2,morning_1,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+w5zs,5.74,5,2,morning_2,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+w5zs,3.62,6,2,evening,female,25.14,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+x6994,15.33,1,1,morning_1,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+x6994,6.43,2,1,morning_2,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+x6994,NA,3,1,evening,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+x6994,11.84,4,2,morning_1,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+x6994,7.29,5,2,morning_2,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+x6994,7.8,6,2,evening,female,38.59,no,NA,NA,no,NA,NA,no,NA,NA
+sadiq,22.43,1,1,morning_1,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+sadiq,34.59,2,1,morning_2,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+sadiq,0.39,3,1,evening,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+sadiq,19.7,4,2,morning_1,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+sadiq,52.68,5,2,morning_2,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+sadiq,2.14,6,2,evening,female,72.14,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,46.47,1,1,morning_1,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,35.52,2,1,morning_2,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,29.11,3,1,evening,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,61.28,4,2,morning_1,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,47.15,5,2,morning_2,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0oss0,99.39,6,2,evening,male,69.46,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+07wj6,3.52,1,1,morning_1,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+07wj6,6.48,2,1,morning_2,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+07wj6,0.64,3,1,evening,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+07wj6,1.18,4,2,morning_1,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+07wj6,7.97,5,2,morning_2,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+07wj6,1.43,6,2,evening,female,60.18,no,NA,NA,no,NA,NA,yes,1 per day,NA
+u5y46,65.01,1,1,morning_1,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+u5y46,66.03,2,1,morning_2,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+u5y46,36.23,3,1,evening,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+u5y46,61.97,4,2,morning_1,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+u5y46,83.14,5,2,morning_2,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+u5y46,17,6,2,evening,male,45.13,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+c5w6y,11.05,1,1,morning_1,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+c5w6y,10.48,2,1,morning_2,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+c5w6y,2.73,3,1,evening,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+c5w6y,10.75,4,2,morning_1,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+c5w6y,8.54,5,2,morning_2,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+c5w6y,3.6,6,2,evening,female,26.49,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+htz1l,97.19,1,1,morning_1,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+htz1l,61.16,2,1,morning_2,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+htz1l,27.54,3,1,evening,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+htz1l,34.85,4,2,morning_1,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+htz1l,47.87,5,2,morning_2,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+htz1l,65.75,6,2,evening,male,36.56,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,0.56,1,1,morning_1,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,4.78,2,1,morning_2,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,0,3,1,evening,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,1.08,4,2,morning_1,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,31.92,5,2,morning_2,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+lrjys,0,6,2,evening,male,61.53,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,10.94,1,1,morning_1,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,26.73,2,1,morning_2,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,8.58,3,1,evening,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,6.35,4,2,morning_1,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,17,5,2,morning_2,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+nbklx,28.81,6,2,evening,male,73.05,no,NA,NA,no,NA,NA,no,NA,NA
+hb4fe,43.35,1,1,morning_1,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hb4fe,41.72,2,1,morning_2,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hb4fe,7.26,3,1,evening,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hb4fe,53.5,4,2,morning_1,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hb4fe,49.52,5,2,morning_2,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+hb4fe,13.05,6,2,evening,male,47,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+vmlyc,7.25,1,1,morning_1,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+vmlyc,1.91,2,1,morning_2,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+vmlyc,50.54,3,1,evening,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+vmlyc,1.6,4,2,morning_1,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+vmlyc,0.21,5,2,morning_2,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+vmlyc,0.59,6,2,evening,female,45.74,no,NA,NA,no,NA,NA,no,NA,NA
+ai12t,40.43,1,1,morning_1,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+ai12t,47.12,2,1,morning_2,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+ai12t,1.26,3,1,evening,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+ai12t,16.43,4,2,morning_1,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+ai12t,28.66,5,2,morning_2,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+ai12t,7.51,6,2,evening,female,31.19,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8dp7d,112.41,1,1,morning_1,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+8dp7d,210.89,2,1,morning_2,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+8dp7d,1.3,3,1,evening,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+8dp7d,222.78,4,2,morning_1,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+8dp7d,440.55,5,2,morning_2,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+8dp7d,64.12,6,2,evening,male,51.2,yes,11-20 per day,mixed,no,NA,NA,no,NA,NA
+lya1e,6.6,1,1,morning_1,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+lya1e,6.66,2,1,morning_2,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+lya1e,15.93,3,1,evening,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+lya1e,11.83,4,2,morning_1,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+lya1e,26.85,5,2,morning_2,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+lya1e,9.02,6,2,evening,female,30.78,no,NA,NA,no,NA,NA,no,NA,NA
+opcg6,NA,1,1,morning_1,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+opcg6,NA,2,1,morning_2,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+opcg6,NA,3,1,evening,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+opcg6,NA,4,2,morning_1,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+opcg6,NA,5,2,morning_2,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+opcg6,NA,6,2,evening,male,25.12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86tkn,39.29,1,1,morning_1,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+86tkn,26.51,2,1,morning_2,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+86tkn,8.79,3,1,evening,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+86tkn,59.79,4,2,morning_1,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+86tkn,30.67,5,2,morning_2,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+86tkn,5.29,6,2,evening,male,28.55,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,NA,1,1,morning_1,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,NA,2,1,morning_2,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,45.32,3,1,evening,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,74.39,4,2,morning_1,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,74.83,5,2,morning_2,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+s2ik6,86.93,6,2,evening,male,45.12,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,1,1,morning_1,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,2,1,morning_2,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,3,1,evening,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,4,2,morning_1,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,5,2,morning_2,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+5ir67,NA,6,2,evening,male,33.48,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,33.19,1,1,morning_1,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,45.37,2,1,morning_2,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,7.32,3,1,evening,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,58.48,4,2,morning_1,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,23.23,5,2,morning_2,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+ltyf2,3.64,6,2,evening,male,34.32,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,20.01,1,1,morning_1,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,85.32,2,1,morning_2,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,NA,3,1,evening,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,67.99,4,2,morning_1,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,110.49,5,2,morning_2,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+gnyiv,58.94,6,2,evening,male,57.76,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,21.43,1,1,morning_1,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,5.18,2,1,morning_2,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,3.07,3,1,evening,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,0,4,2,morning_1,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,0.7,5,2,morning_2,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+7pfa7,40.37,6,2,evening,female,53.53,no,NA,NA,no,NA,NA,no,NA,NA
+50v87,NA,1,1,morning_1,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50v87,NA,2,1,morning_2,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50v87,NA,3,1,evening,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50v87,NA,4,2,morning_1,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50v87,NA,5,2,morning_2,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50v87,NA,6,2,evening,male,30.64,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ceiez,5.08,1,1,morning_1,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+ceiez,3.11,2,1,morning_2,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+ceiez,0.84,3,1,evening,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+ceiez,1.55,4,2,morning_1,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+ceiez,2.31,5,2,morning_2,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+ceiez,2.64,6,2,evening,female,67.61,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,31.56,1,1,morning_1,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,25.23,2,1,morning_2,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,10.94,3,1,evening,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,42.32,4,2,morning_1,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,7.07,5,2,morning_2,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+7gcjm,0.35,6,2,evening,male,65.87,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,88.77,1,1,morning_1,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,28.27,2,1,morning_2,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,103.81,3,1,evening,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,123.57,4,2,morning_1,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,102.8,5,2,morning_2,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+oivkl,99.2,6,2,evening,male,48.65,no,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,11.17,1,1,morning_1,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,22.12,2,1,morning_2,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,2.39,3,1,evening,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,3.67,4,2,morning_1,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,3.16,5,2,morning_2,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+kt6bm,0.64,6,2,evening,female,28.59,yes,NA,NA,no,NA,NA,no,NA,NA
+cuggr,28.56,1,1,morning_1,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+cuggr,17.82,2,1,morning_2,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+cuggr,26.82,3,1,evening,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+cuggr,81.34,4,2,morning_1,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+cuggr,128.65,5,2,morning_2,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+cuggr,34.77,6,2,evening,male,35.28,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,127.7,1,1,morning_1,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,38.85,2,1,morning_2,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,6.04,3,1,evening,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,44.72,4,2,morning_1,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,69.8,5,2,morning_2,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+tkvo8,43.59,6,2,evening,male,24.69,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,128.59,1,1,morning_1,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,76.19,2,1,morning_2,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,288.57,3,1,evening,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,28.25,4,2,morning_1,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,1.53,5,2,morning_2,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+2pfiy,29.24,6,2,evening,female,16.96,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+1eagv,143.61,1,1,morning_1,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+1eagv,67.55,2,1,morning_2,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+1eagv,50.34,3,1,evening,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+1eagv,144.42,4,2,morning_1,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+1eagv,129.52,5,2,morning_2,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+1eagv,51.26,6,2,evening,male,18.8,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,7.11,1,1,morning_1,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,6.45,2,1,morning_2,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,4.97,3,1,evening,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,24,4,2,morning_1,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,12.84,5,2,morning_2,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+pi7ny,0.74,6,2,evening,female,29.13,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,50.76,1,1,morning_1,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,54.25,2,1,morning_2,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,52.37,3,1,evening,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,90.9,4,2,morning_1,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,80.51,5,2,morning_2,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+dl9l2,27.15,6,2,evening,male,20.98,no,NA,NA,no,NA,NA,no,NA,NA
+v8lcl,83.77,1,1,morning_1,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+v8lcl,78.24,2,1,morning_2,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+v8lcl,2.76,3,1,evening,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+v8lcl,85.79,4,2,morning_1,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+v8lcl,14.92,5,2,morning_2,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+v8lcl,0.61,6,2,evening,female,17.54,yes,10 or less per day,cigarettes,no,NA,NA,yes,1 per day,contraceptive pill
+knrlg,13.64,1,1,morning_1,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+knrlg,4.15,2,1,morning_2,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+knrlg,23.01,3,1,evening,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+knrlg,28.74,4,2,morning_1,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+knrlg,15.75,5,2,morning_2,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+knrlg,7.83,6,2,evening,female,56.41,no,NA,NA,no,NA,NA,no,NA,NA
+whkno,NA,1,1,morning_1,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+whkno,NA,2,1,morning_2,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+whkno,NA,3,1,evening,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+whkno,NA,4,2,morning_1,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+whkno,NA,5,2,morning_2,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+whkno,NA,6,2,evening,male,16.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xxzfw,NA,1,1,morning_1,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xxzfw,NA,2,1,morning_2,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xxzfw,NA,3,1,evening,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xxzfw,NA,4,2,morning_1,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xxzfw,NA,5,2,morning_2,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+xxzfw,NA,6,2,evening,male,42.09,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8shbg,4.94,1,1,morning_1,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+8shbg,3.04,2,1,morning_2,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+8shbg,10.23,3,1,evening,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+8shbg,20.82,4,2,morning_1,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+8shbg,0,5,2,morning_2,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+8shbg,1.41,6,2,evening,female,28.18,yes,11-20 per day,NA,no,NA,NA,yes,1 per day,contraceptive pill
+d5njy,2.84,1,1,morning_1,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+d5njy,20.15,2,1,morning_2,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+d5njy,0,3,1,evening,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+d5njy,2.36,4,2,morning_1,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+d5njy,6.42,5,2,morning_2,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+d5njy,1.71,6,2,evening,female,31.26,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,15.66,1,1,morning_1,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,66.31,2,1,morning_2,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,69.54,3,1,evening,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,69.33,4,2,morning_1,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,29.09,5,2,morning_2,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+j2f2p,26.74,6,2,evening,female,33.49,no,NA,NA,no,NA,NA,no,NA,NA
+9u6ge,4.54,1,1,morning_1,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9u6ge,5.44,2,1,morning_2,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9u6ge,28.86,3,1,evening,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9u6ge,40.13,4,2,morning_1,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9u6ge,8.43,5,2,morning_2,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9u6ge,3.13,6,2,evening,female,17.09,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+rxe83,7.74,1,1,morning_1,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+rxe83,13.4,2,1,morning_2,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+rxe83,10.42,3,1,evening,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+rxe83,6.16,4,2,morning_1,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+rxe83,10,5,2,morning_2,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+rxe83,9.74,6,2,evening,female,18.21,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,9.92,1,1,morning_1,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,37.62,2,1,morning_2,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,11.29,3,1,evening,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,9.51,4,2,morning_1,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,14.41,5,2,morning_2,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+a4bah,0.04,6,2,evening,female,19.28,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,81.2,1,1,morning_1,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,20.2,2,1,morning_2,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,19.33,3,1,evening,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,50.39,4,2,morning_1,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,95.91,5,2,morning_2,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+93a79,14.58,6,2,evening,male,27.5,no,NA,NA,no,NA,NA,no,NA,NA
+inqjo,3.34,1,1,morning_1,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+inqjo,3.94,2,1,morning_2,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+inqjo,2.92,3,1,evening,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+inqjo,9.83,4,2,morning_1,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+inqjo,1.36,5,2,morning_2,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+inqjo,0,6,2,evening,female,32.2,yes,10 or less per day,mixed,no,NA,NA,no,NA,NA
+r7ey3,271.79,1,1,morning_1,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+r7ey3,109.45,2,1,morning_2,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+r7ey3,87.71,3,1,evening,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+r7ey3,93.28,4,2,morning_1,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+r7ey3,131.53,5,2,morning_2,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+r7ey3,152.1,6,2,evening,male,37.64,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+05zds,11.3,1,1,morning_1,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+05zds,116.18,2,1,morning_2,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+05zds,19.7,3,1,evening,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+05zds,1.85,4,2,morning_1,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+05zds,25.89,5,2,morning_2,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+05zds,6.99,6,2,evening,female,19.56,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+9feqd,18.93,1,1,morning_1,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+9feqd,88.16,2,1,morning_2,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+9feqd,23.24,3,1,evening,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+9feqd,104.14,4,2,morning_1,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+9feqd,8.29,5,2,morning_2,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+9feqd,0,6,2,evening,female,19.95,yes,10 or less per day,NA,no,NA,NA,yes,1 per day,endometriosis medication
+0y2xh,12.27,1,1,morning_1,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0y2xh,16.92,2,1,morning_2,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0y2xh,1.09,3,1,evening,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0y2xh,39.4,4,2,morning_1,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0y2xh,4.91,5,2,morning_2,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+0y2xh,3.1,6,2,evening,female,70.86,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,66.19,1,1,morning_1,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,1.03,2,1,morning_2,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,16.91,3,1,evening,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,21.28,4,2,morning_1,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,10.56,5,2,morning_2,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+a3hpj,11.66,6,2,evening,female,33.71,yes,21-30 per day,cigarettes,no,NA,NA,no,NA,NA
+4krz4,17.72,1,1,morning_1,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+4krz4,99.65,2,1,morning_2,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+4krz4,4.35,3,1,evening,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+4krz4,8.65,4,2,morning_1,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+4krz4,0.64,5,2,morning_2,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+4krz4,0,6,2,evening,female,19.3,no,NA,NA,no,NA,NA,yes,1 per day,NA
+2rgd0,8.82,1,1,morning_1,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+2rgd0,0,2,1,morning_2,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+2rgd0,0,3,1,evening,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+2rgd0,0,4,2,morning_1,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+2rgd0,2.55,5,2,morning_2,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+2rgd0,0,6,2,evening,female,22.23,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+r464x,21.37,1,1,morning_1,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+r464x,73.96,2,1,morning_2,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+r464x,25.44,3,1,evening,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+r464x,12.22,4,2,morning_1,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+r464x,38.3,5,2,morning_2,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+r464x,30.28,6,2,evening,male,50.02,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,61.79,1,1,morning_1,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,94.26,2,1,morning_2,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,38.14,3,1,evening,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,16.31,4,2,morning_1,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,59.43,5,2,morning_2,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+uj8s2,60.41,6,2,evening,male,24.69,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,133.47,1,1,morning_1,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,156.76,2,1,morning_2,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,89.88,3,1,evening,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,57.12,4,2,morning_1,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,4.27,5,2,morning_2,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+x70sm,24.93,6,2,evening,male,32.1,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,44.02,1,1,morning_1,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,60.33,2,1,morning_2,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,38.9,3,1,evening,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,44.98,4,2,morning_1,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,39.91,5,2,morning_2,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+9khsp,32.5,6,2,evening,male,73.22,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,16.4,1,1,morning_1,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,10.45,2,1,morning_2,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,5.18,3,1,evening,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,15.84,4,2,morning_1,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,15.18,5,2,morning_2,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+7jwhv,9.04,6,2,evening,female,20.86,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,0.49,1,1,morning_1,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,12.07,2,1,morning_2,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,1.92,3,1,evening,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,6.23,4,2,morning_1,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,86.6,5,2,morning_2,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+8fvat,4.39,6,2,evening,female,62.71,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,160.03,1,1,morning_1,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,152.44,2,1,morning_2,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,38.7,3,1,evening,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,147.61,4,2,morning_1,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,97.59,5,2,morning_2,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+1zkii,69.02,6,2,evening,male,19.8,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,1.52,1,1,morning_1,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,3.01,2,1,morning_2,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,22.41,3,1,evening,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,24.74,4,2,morning_1,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,32.81,5,2,morning_2,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+h6vaq,1.75,6,2,evening,female,38.87,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,155.92,1,1,morning_1,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,104,2,1,morning_2,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,34.58,3,1,evening,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,170.62,4,2,morning_1,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,44.46,5,2,morning_2,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+r48az,9.55,6,2,evening,male,53.04,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,95.17,1,1,morning_1,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,39.38,2,1,morning_2,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,151.41,3,1,evening,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,40.69,4,2,morning_1,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,53.34,5,2,morning_2,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+xvnpv,12.93,6,2,evening,female,61.86,no,NA,NA,no,NA,NA,no,NA,NA
+92r8q,1.3,1,1,morning_1,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+92r8q,1.37,2,1,morning_2,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+92r8q,0,3,1,evening,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+92r8q,2.07,4,2,morning_1,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+92r8q,1.93,5,2,morning_2,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+92r8q,0.01,6,2,evening,female,52.34,no,NA,NA,yes,twice daily or less,anti-inflammatory,no,NA,NA
+6k05w,111.23,1,1,morning_1,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+6k05w,NA,2,1,morning_2,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+6k05w,53.27,3,1,evening,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+6k05w,84.69,4,2,morning_1,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+6k05w,106.87,5,2,morning_2,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+6k05w,71.24,6,2,evening,male,20.33,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,54.71,1,1,morning_1,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,29.31,2,1,morning_2,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,23.7,3,1,evening,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,62.22,4,2,morning_1,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,64.72,5,2,morning_2,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+t8leg,3.47,6,2,evening,female,25.68,no,NA,NA,no,NA,NA,no,NA,NA
+yi5hu,20.34,1,1,morning_1,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+yi5hu,6.19,2,1,morning_2,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+yi5hu,42.26,3,1,evening,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+yi5hu,4.37,4,2,morning_1,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+yi5hu,33.51,5,2,morning_2,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+yi5hu,4.98,6,2,evening,female,24.51,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,2.87,1,1,morning_1,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,7.19,2,1,morning_2,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,0.13,3,1,evening,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,4.6,4,2,morning_1,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,1.73,5,2,morning_2,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+18dlb,0,6,2,evening,female,33.68,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+vew3l,24.41,1,1,morning_1,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+vew3l,9.33,2,1,morning_2,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+vew3l,6.92,3,1,evening,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+vew3l,4.16,4,2,morning_1,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+vew3l,18.87,5,2,morning_2,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+vew3l,7.77,6,2,evening,female,58.56,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,1,1,morning_1,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,2,1,morning_2,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,3,1,evening,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,4,2,morning_1,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,5,2,morning_2,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+hvzc3,NA,6,2,evening,female,67.57,no,NA,NA,no,NA,NA,no,NA,NA
+8jkgj,79.58,1,1,morning_1,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8jkgj,184.09,2,1,morning_2,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8jkgj,10.1,3,1,evening,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8jkgj,139.76,4,2,morning_1,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8jkgj,134.38,5,2,morning_2,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+8jkgj,27.81,6,2,evening,male,50.64,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,200.91,1,1,morning_1,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,49.34,2,1,morning_2,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,22.08,3,1,evening,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,217.09,4,2,morning_1,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,200.1,5,2,morning_2,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+paa9k,21.49,6,2,evening,male,55.17,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+hmcog,2.12,1,1,morning_1,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+hmcog,0,2,1,morning_2,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+hmcog,0.13,3,1,evening,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+hmcog,1.13,4,2,morning_1,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+hmcog,0,5,2,morning_2,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+hmcog,0,6,2,evening,female,70.38,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,25.26,1,1,morning_1,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,10.54,2,1,morning_2,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,2.45,3,1,evening,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,3.86,4,2,morning_1,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,5.56,5,2,morning_2,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+0wpbe,2.14,6,2,evening,female,55.08,no,NA,NA,no,NA,NA,no,NA,NA
+9w1z1,NA,1,1,morning_1,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+9w1z1,10.17,2,1,morning_2,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+9w1z1,5.15,3,1,evening,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+9w1z1,11.29,4,2,morning_1,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+9w1z1,1.92,5,2,morning_2,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+9w1z1,39.76,6,2,evening,female,17.55,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+x9lh0,56.17,1,1,morning_1,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+x9lh0,39.53,2,1,morning_2,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+x9lh0,53.51,3,1,evening,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+x9lh0,96.53,4,2,morning_1,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+x9lh0,85.35,5,2,morning_2,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+x9lh0,16.28,6,2,evening,male,46.33,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,134.99,1,1,morning_1,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,75.77,2,1,morning_2,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,12.37,3,1,evening,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,86.23,4,2,morning_1,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,83.54,5,2,morning_2,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vdg3m,23.98,6,2,evening,male,49.74,no,NA,NA,no,NA,NA,no,NA,NA
+vjfcr,46.84,1,1,morning_1,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+vjfcr,21.49,2,1,morning_2,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+vjfcr,6.14,3,1,evening,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+vjfcr,37.8,4,2,morning_1,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+vjfcr,27.42,5,2,morning_2,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+vjfcr,0,6,2,evening,female,65.73,yes,11-20 per day,NA,no,NA,NA,no,NA,NA
+axr1v,242.76,1,1,morning_1,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+axr1v,111.11,2,1,morning_2,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+axr1v,68.31,3,1,evening,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+axr1v,124.16,4,2,morning_1,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+axr1v,170.7,5,2,morning_2,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+axr1v,46.09,6,2,evening,male,20.2,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+iv9hp,7.1,1,1,morning_1,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+iv9hp,15.74,2,1,morning_2,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+iv9hp,2.1,3,1,evening,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+iv9hp,2.13,4,2,morning_1,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+iv9hp,19.12,5,2,morning_2,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+iv9hp,4.87,6,2,evening,female,16.15,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,71.52,1,1,morning_1,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,312.72,2,1,morning_2,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,36.88,3,1,evening,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,90.34,4,2,morning_1,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,138.26,5,2,morning_2,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+tozmj,154.12,6,2,evening,male,19.51,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,1.65,1,1,morning_1,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,38.61,2,1,morning_2,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,15.97,3,1,evening,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,26.01,4,2,morning_1,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,88.57,5,2,morning_2,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+whvwv,1.8,6,2,evening,female,67.55,no,NA,NA,no,NA,NA,no,NA,NA
+ypd30,94.23,1,1,morning_1,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ypd30,33.41,2,1,morning_2,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ypd30,13.32,3,1,evening,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ypd30,40.97,4,2,morning_1,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ypd30,39.12,5,2,morning_2,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ypd30,42.42,6,2,evening,female,21,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+fayc7,18.65,1,1,morning_1,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+fayc7,23.33,2,1,morning_2,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+fayc7,5.04,3,1,evening,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+fayc7,15.23,4,2,morning_1,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+fayc7,27.86,5,2,morning_2,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+fayc7,19.95,6,2,evening,female,68.4,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,12.06,1,1,morning_1,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,4.93,2,1,morning_2,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,0,3,1,evening,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,3.45,4,2,morning_1,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,4.24,5,2,morning_2,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+48uu8,0,6,2,evening,female,66.75,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,156.62,1,1,morning_1,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,201.11,2,1,morning_2,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,80.53,3,1,evening,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,185.56,4,2,morning_1,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,76.23,5,2,morning_2,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+2nmr6,61.53,6,2,evening,male,26.09,no,NA,NA,no,NA,NA,no,NA,NA
+0i8rx,20.87,1,1,morning_1,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+0i8rx,16.19,2,1,morning_2,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+0i8rx,9.56,3,1,evening,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+0i8rx,14.99,4,2,morning_1,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+0i8rx,21.76,5,2,morning_2,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+0i8rx,159.56,6,2,evening,male,70.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jjln9,8.33,1,1,morning_1,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+jjln9,1.83,2,1,morning_2,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+jjln9,4.71,3,1,evening,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+jjln9,6.03,4,2,morning_1,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+jjln9,8.02,5,2,morning_2,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+jjln9,5.32,6,2,evening,female,45.87,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,9.54,1,1,morning_1,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,9.97,2,1,morning_2,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,2.84,3,1,evening,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,9.52,4,2,morning_1,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,42.4,5,2,morning_2,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+o4p01,0.45,6,2,evening,female,62.7,no,NA,NA,no,NA,NA,no,NA,NA
+eo96j,114.38,1,1,morning_1,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+eo96j,547.75,2,1,morning_2,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+eo96j,43.65,3,1,evening,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+eo96j,97.37,4,2,morning_1,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+eo96j,112.78,5,2,morning_2,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+eo96j,43.31,6,2,evening,male,65.63,yes,10 or less per day,cigarillos,no,NA,NA,no,NA,NA
+g0vr6,46.69,1,1,morning_1,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+g0vr6,31.51,2,1,morning_2,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+g0vr6,18.38,3,1,evening,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+g0vr6,47.91,4,2,morning_1,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+g0vr6,38.93,5,2,morning_2,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+g0vr6,21.49,6,2,evening,male,66.28,no,NA,NA,no,NA,NA,no,NA,NA
+3o4up,37.13,1,1,morning_1,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+3o4up,31.18,2,1,morning_2,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+3o4up,6.03,3,1,evening,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+3o4up,19.27,4,2,morning_1,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+3o4up,33.47,5,2,morning_2,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+3o4up,8.91,6,2,evening,male,71.82,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+f9d6j,111.42,1,1,morning_1,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+f9d6j,87.64,2,1,morning_2,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+f9d6j,55.67,3,1,evening,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+f9d6j,61.83,4,2,morning_1,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+f9d6j,72.06,5,2,morning_2,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+f9d6j,56.67,6,2,evening,male,35.6,yes,10 or less per day,"cigarettes, pipe",no,NA,NA,no,NA,NA
+tetwh,233,1,1,morning_1,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+tetwh,170.52,2,1,morning_2,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+tetwh,54.77,3,1,evening,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+tetwh,202.91,4,2,morning_1,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+tetwh,157.93,5,2,morning_2,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+tetwh,43.26,6,2,evening,male,63.93,no,NA,NA,no,NA,NA,no,NA,NA
+nsa0l,110.6,1,1,morning_1,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+nsa0l,81.12,2,1,morning_2,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+nsa0l,50.88,3,1,evening,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+nsa0l,123.44,4,2,morning_1,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+nsa0l,117.01,5,2,morning_2,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+nsa0l,78.28,6,2,evening,male,31.26,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+y6smm,23.52,1,1,morning_1,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+y6smm,38.68,2,1,morning_2,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+y6smm,28.21,3,1,evening,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+y6smm,26.85,4,2,morning_1,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+y6smm,6.73,5,2,morning_2,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+y6smm,50.58,6,2,evening,male,74.24,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,18.15,1,1,morning_1,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,15.22,2,1,morning_2,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,34.03,3,1,evening,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,12.17,4,2,morning_1,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,19.94,5,2,morning_2,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+rdrfp,26.3,6,2,evening,female,34.39,no,NA,NA,no,NA,NA,no,NA,NA
+xixjx,NA,1,1,morning_1,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xixjx,NA,2,1,morning_2,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xixjx,NA,3,1,evening,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xixjx,NA,4,2,morning_1,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xixjx,NA,5,2,morning_2,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+xixjx,NA,6,2,evening,female,66.22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bjchh,72.1,1,1,morning_1,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+bjchh,66.01,2,1,morning_2,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+bjchh,55.94,3,1,evening,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+bjchh,108.22,4,2,morning_1,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+bjchh,81.06,5,2,morning_2,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+bjchh,38.63,6,2,evening,male,63.98,no,NA,NA,no,NA,NA,no,NA,NA
+1codz,73.98,1,1,morning_1,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+1codz,44.23,2,1,morning_2,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+1codz,10.89,3,1,evening,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+1codz,122.13,4,2,morning_1,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+1codz,38.54,5,2,morning_2,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+1codz,106.78,6,2,evening,male,17.37,yes,11-20 per day,NA,yes,NA,NA,yes,NA,NA
+3345j,9.07,1,1,morning_1,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3345j,14.42,2,1,morning_2,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3345j,0.95,3,1,evening,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3345j,10.15,4,2,morning_1,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3345j,8.65,5,2,morning_2,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+3345j,8.66,6,2,evening,female,31.41,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+m0095,7.19,1,1,morning_1,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+m0095,14.65,2,1,morning_2,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+m0095,1.01,3,1,evening,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+m0095,10.87,4,2,morning_1,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+m0095,11,5,2,morning_2,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+m0095,1.68,6,2,evening,female,63.9,no,NA,NA,no,NA,NA,no,NA,NA
+x0ehw,1.88,1,1,morning_1,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+x0ehw,2.23,2,1,morning_2,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+x0ehw,0,3,1,evening,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+x0ehw,3.71,4,2,morning_1,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+x0ehw,7.6,5,2,morning_2,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+x0ehw,1.54,6,2,evening,female,56.06,no,NA,NA,yes,twice daily or less,asthma medication,no,NA,NA
+u5ou5,34.74,1,1,morning_1,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+u5ou5,26.9,2,1,morning_2,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+u5ou5,4.92,3,1,evening,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+u5ou5,19.02,4,2,morning_1,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+u5ou5,7.74,5,2,morning_2,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+u5ou5,9.21,6,2,evening,male,70.72,no,NA,NA,no,NA,NA,no,NA,NA
+hgghw,22.96,1,1,morning_1,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+hgghw,42.36,2,1,morning_2,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+hgghw,34.84,3,1,evening,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+hgghw,2.17,4,2,morning_1,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+hgghw,14.9,5,2,morning_2,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+hgghw,22.04,6,2,evening,male,19.13,yes,10 or less per day,shisha,no,NA,NA,no,NA,NA
+1x78r,31.25,1,1,morning_1,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+1x78r,76.38,2,1,morning_2,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+1x78r,22.2,3,1,evening,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+1x78r,54.07,4,2,morning_1,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+1x78r,80.85,5,2,morning_2,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+1x78r,14.45,6,2,evening,male,74.89,no,NA,NA,no,NA,NA,no,NA,NA
+opl8a,5.42,1,1,morning_1,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+opl8a,12.43,2,1,morning_2,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+opl8a,7.38,3,1,evening,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+opl8a,30.85,4,2,morning_1,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+opl8a,15.34,5,2,morning_2,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+opl8a,1.22,6,2,evening,female,19.52,yes,10 or less per day,cigarettes,no,NA,NA,no,NA,NA
+k1d8d,50.43,1,1,morning_1,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+k1d8d,164.85,2,1,morning_2,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+k1d8d,34.07,3,1,evening,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+k1d8d,39.32,4,2,morning_1,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+k1d8d,132.58,5,2,morning_2,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+k1d8d,45,6,2,evening,male,62.49,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,6.34,1,1,morning_1,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,32.34,2,1,morning_2,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,0.23,3,1,evening,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,29.99,4,2,morning_1,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,20.46,5,2,morning_2,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+uhv2o,2.77,6,2,evening,female,51.64,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,4.29,1,1,morning_1,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,4.35,2,1,morning_2,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,0,3,1,evening,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,1.88,4,2,morning_1,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,18.62,5,2,morning_2,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+9ai4y,0,6,2,evening,female,55.54,no,NA,NA,no,NA,NA,no,NA,NA
+28aqw,0.89,1,1,morning_1,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+28aqw,0,2,1,morning_2,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+28aqw,0,3,1,evening,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+28aqw,6.93,4,2,morning_1,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+28aqw,12.17,5,2,morning_2,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+28aqw,0,6,2,evening,female,34.18,no,NA,NA,no,NA,NA,yes,1 per day,contraceptive pill
+ltzmu,285.53,1,1,morning_1,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+ltzmu,45.2,2,1,morning_2,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+ltzmu,55.38,3,1,evening,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+ltzmu,3.93,4,2,morning_1,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+ltzmu,48.86,5,2,morning_2,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+ltzmu,21.87,6,2,evening,male,39.23,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,27.75,1,1,morning_1,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,70.95,2,1,morning_2,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,16.06,3,1,evening,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,79.84,4,2,morning_1,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,59.61,5,2,morning_2,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+vpmyf,16.46,6,2,evening,male,60.27,no,NA,NA,no,NA,NA,no,NA,NA
+9x404,144.58,1,1,morning_1,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9x404,105.98,2,1,morning_2,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9x404,59.38,3,1,evening,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9x404,124.59,4,2,morning_1,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9x404,110.31,5,2,morning_2,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9x404,50.02,6,2,evening,male,17.69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1zi3s,17.77,1,1,morning_1,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+1zi3s,18.16,2,1,morning_2,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+1zi3s,2.07,3,1,evening,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+1zi3s,21.25,4,2,morning_1,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+1zi3s,7.99,5,2,morning_2,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+1zi3s,5.29,6,2,evening,female,62,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,138.69,1,1,morning_1,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,146.77,2,1,morning_2,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,21.55,3,1,evening,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,24.85,4,2,morning_1,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,61.28,5,2,morning_2,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+hzw8w,61.15,6,2,evening,male,31.11,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,77.17,1,1,morning_1,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,73.99,2,1,morning_2,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,53.15,3,1,evening,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,88.14,4,2,morning_1,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,129.76,5,2,morning_2,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+iww4g,84.65,6,2,evening,male,33.13,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,161.5,1,1,morning_1,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,110.79,2,1,morning_2,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,34.96,3,1,evening,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,219.34,4,2,morning_1,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,122.75,5,2,morning_2,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+dhnen,31.82,6,2,evening,male,18.95,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,84.81,1,1,morning_1,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,52.67,2,1,morning_2,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,25.23,3,1,evening,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,197.33,4,2,morning_1,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,51.49,5,2,morning_2,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+eme40,43.57,6,2,evening,male,60.3,no,NA,NA,no,NA,NA,no,NA,NA
+rsitg,17.34,1,1,morning_1,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+rsitg,24.25,2,1,morning_2,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+rsitg,16.63,3,1,evening,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+rsitg,17.06,4,2,morning_1,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+rsitg,35.73,5,2,morning_2,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+rsitg,8.06,6,2,evening,female,51.73,yes,NA,NA,no,NA,NA,no,NA,NA
+as8uq,41.05,1,1,morning_1,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+as8uq,35.92,2,1,morning_2,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+as8uq,58.02,3,1,evening,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+as8uq,45.51,4,2,morning_1,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+as8uq,32.66,5,2,morning_2,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+as8uq,16.35,6,2,evening,male,70.58,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,17.3,1,1,morning_1,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,66.18,2,1,morning_2,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,7.25,3,1,evening,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,40.19,4,2,morning_1,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,34.45,5,2,morning_2,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+nyqxv,3.99,6,2,evening,male,77.98,no,NA,NA,no,NA,NA,no,NA,NA
+bz14f,4.78,1,1,morning_1,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+bz14f,7.59,2,1,morning_2,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+bz14f,0,3,1,evening,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+bz14f,11.81,4,2,morning_1,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+bz14f,12.06,5,2,morning_2,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+bz14f,3.73,6,2,evening,female,56.85,no,NA,NA,no,NA,NA,yes,1 per day,menopause medication
+jqa4t,24.93,1,1,morning_1,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jqa4t,27.36,2,1,morning_2,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jqa4t,23.93,3,1,evening,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jqa4t,25.94,4,2,morning_1,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jqa4t,125.78,5,2,morning_2,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+jqa4t,31.32,6,2,evening,male,68.06,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+75hrf,10.56,1,1,morning_1,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+75hrf,21.91,2,1,morning_2,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+75hrf,13.34,3,1,evening,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+75hrf,11.18,4,2,morning_1,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+75hrf,12.19,5,2,morning_2,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+75hrf,2.77,6,2,evening,female,49.46,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,44.83,1,1,morning_1,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,32.11,2,1,morning_2,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,0.82,3,1,evening,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,53.05,4,2,morning_1,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,58.13,5,2,morning_2,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+8g0yu,16.98,6,2,evening,male,80.48,no,NA,NA,no,NA,NA,no,NA,NA
+rf9p6,15.81,1,1,morning_1,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+rf9p6,6.25,2,1,morning_2,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+rf9p6,0.67,3,1,evening,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+rf9p6,26.52,4,2,morning_1,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+rf9p6,12.11,5,2,morning_2,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+rf9p6,1.49,6,2,evening,female,49.14,no,NA,NA,yes,twice daily or less,allergy medication,no,NA,NA
+1ycc1,25.17,1,1,morning_1,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+1ycc1,99.78,2,1,morning_2,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+1ycc1,20,3,1,evening,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+1ycc1,25.92,4,2,morning_1,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+1ycc1,179.35,5,2,morning_2,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+1ycc1,12.09,6,2,evening,female,39.67,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,6.82,1,1,morning_1,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,3.06,2,1,morning_2,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,1.76,3,1,evening,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,4.56,4,2,morning_1,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,14.81,5,2,morning_2,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+jopv5,10.21,6,2,evening,female,75.5,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,7.27,1,1,morning_1,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,10.26,2,1,morning_2,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,4.63,3,1,evening,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,15.95,4,2,morning_1,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,11.94,5,2,morning_2,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+9d0qi,8.73,6,2,evening,female,60.57,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,86.86,1,1,morning_1,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,42.42,2,1,morning_2,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,13.54,3,1,evening,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,38.51,4,2,morning_1,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,27.48,5,2,morning_2,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+i5n1e,20.07,6,2,evening,male,81.38,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,77.31,1,1,morning_1,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,51.24,2,1,morning_2,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,87.19,3,1,evening,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,156.75,4,2,morning_1,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,93.25,5,2,morning_2,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+yhb2q,58.71,6,2,evening,male,53.11,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,5.33,1,1,morning_1,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,3.97,2,1,morning_2,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,0.37,3,1,evening,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,7.79,4,2,morning_1,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,25.14,5,2,morning_2,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zj4pg,0,6,2,evening,female,49.02,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,10.79,1,1,morning_1,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,5.13,2,1,morning_2,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,10.89,3,1,evening,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,4.93,4,2,morning_1,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,8.83,5,2,morning_2,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+zwkcy,11.44,6,2,evening,female,71.51,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,39.84,1,1,morning_1,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,4.07,2,1,morning_2,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,1.83,3,1,evening,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,6.19,4,2,morning_1,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,13.97,5,2,morning_2,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+cs9ej,10.58,6,2,evening,female,62.97,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,26.55,1,1,morning_1,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,36.03,2,1,morning_2,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,12.84,3,1,evening,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,33.83,4,2,morning_1,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,30.16,5,2,morning_2,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+3lwnu,21.63,6,2,evening,male,74.1,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,145.36,1,1,morning_1,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,431.03,2,1,morning_2,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,80.55,3,1,evening,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,112.63,4,2,morning_1,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,70.75,5,2,morning_2,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+o144u,139.27,6,2,evening,male,51.26,no,NA,NA,no,NA,NA,no,NA,NA
+mjxiu,137.34,1,1,morning_1,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+mjxiu,62.95,2,1,morning_2,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+mjxiu,27.24,3,1,evening,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+mjxiu,113.48,4,2,morning_1,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+mjxiu,56.87,5,2,morning_2,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+mjxiu,33.2,6,2,evening,male,69.21,yes,10 or less per day,cigars,no,NA,NA,no,NA,NA
+7k63d,2.19,1,1,morning_1,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+7k63d,20.01,2,1,morning_2,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+7k63d,9.65,3,1,evening,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+7k63d,31.36,4,2,morning_1,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+7k63d,52.45,5,2,morning_2,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+7k63d,4.75,6,2,evening,female,64.71,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,11.7,1,1,morning_1,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,16.1,2,1,morning_2,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,17.2,3,1,evening,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,28.9,4,2,morning_1,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,8.44,5,2,morning_2,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+ccwa7,19.8,6,2,evening,male,74.62,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,58.19,1,1,morning_1,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,26.75,2,1,morning_2,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,23.53,3,1,evening,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,97.97,4,2,morning_1,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,16.11,5,2,morning_2,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8dif7,19.48,6,2,evening,male,52.03,no,NA,NA,no,NA,NA,no,NA,NA
+8nz8d,4.23,1,1,morning_1,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8nz8d,9.41,2,1,morning_2,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8nz8d,1.56,3,1,evening,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8nz8d,6.43,4,2,morning_1,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8nz8d,0.18,5,2,morning_2,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+8nz8d,2.43,6,2,evening,female,61.91,yes,10 or less per day,NA,no,NA,NA,no,NA,NA
+mjf5t,10.44,1,1,morning_1,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+mjf5t,4.82,2,1,morning_2,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+mjf5t,1.06,3,1,evening,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+mjf5t,2.05,4,2,morning_1,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+mjf5t,2.8,5,2,morning_2,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+mjf5t,4.57,6,2,evening,female,47.15,no,NA,NA,no,NA,NA,no,NA,NA
+rpgbj,5.17,1,1,morning_1,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+rpgbj,5.06,2,1,morning_2,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+rpgbj,0.71,3,1,evening,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+rpgbj,16.11,4,2,morning_1,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+rpgbj,16.75,5,2,morning_2,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+rpgbj,2.52,6,2,evening,male,75.42,no,NA,NA,no,NA,NA,yes,1 per day,endometriosis medication
+l7989,144.86,1,1,morning_1,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+l7989,104.94,2,1,morning_2,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+l7989,25.76,3,1,evening,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+l7989,88.91,4,2,morning_1,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+l7989,196.43,5,2,morning_2,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+l7989,52.57,6,2,evening,male,75.85,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,1.84,1,1,morning_1,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,5.89,2,1,morning_2,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,6.54,3,1,evening,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,3.49,4,2,morning_1,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,8.91,5,2,morning_2,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+nq39j,4.3,6,2,evening,female,71.75,no,NA,NA,no,NA,NA,no,NA,NA
+wjowk,0.19,1,1,morning_1,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+wjowk,4.57,2,1,morning_2,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+wjowk,0,3,1,evening,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+wjowk,0.21,4,2,morning_1,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+wjowk,21.75,5,2,morning_2,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+wjowk,6.42,6,2,evening,female,75.05,no,NA,NA,no,NA,NA,yes,NA,hormone plaster
+4fsra,14.15,1,1,morning_1,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+4fsra,12.62,2,1,morning_2,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+4fsra,1.95,3,1,evening,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+4fsra,7.36,4,2,morning_1,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+4fsra,11.38,5,2,morning_2,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+4fsra,1.91,6,2,evening,female,76.37,no,NA,NA,yes,twice daily or less,NA,yes,NA,NA
+rpjw2,12.12,1,1,morning_1,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+rpjw2,6.79,2,1,morning_2,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+rpjw2,4.74,3,1,evening,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+rpjw2,9.99,4,2,morning_1,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+rpjw2,9.1,5,2,morning_2,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+rpjw2,7.82,6,2,evening,female,70.47,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,47.48,1,1,morning_1,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,47.61,2,1,morning_2,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,15.4,3,1,evening,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,56.78,4,2,morning_1,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,50.15,5,2,morning_2,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+2vszu,99.07,6,2,evening,male,71.2,no,NA,NA,no,NA,NA,no,NA,NA
+kwthz,NA,1,1,morning_1,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwthz,NA,2,1,morning_2,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwthz,NA,3,1,evening,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwthz,NA,4,2,morning_1,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwthz,NA,5,2,morning_2,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwthz,NA,6,2,evening,male,18.9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+i8bx5,199.13,1,1,morning_1,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+i8bx5,88.81,2,1,morning_2,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+i8bx5,53.02,3,1,evening,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+i8bx5,167.93,4,2,morning_1,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+i8bx5,94.18,5,2,morning_2,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+i8bx5,56.74,6,2,evening,male,47.12,yes,11-20 per day,cigarettes,no,NA,NA,no,NA,NA
+qzt5d,30.24,1,1,morning_1,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+qzt5d,54.93,2,1,morning_2,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+qzt5d,18.79,3,1,evening,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+qzt5d,23.97,4,2,morning_1,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+qzt5d,8.29,5,2,morning_2,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+qzt5d,8.32,6,2,evening,female,76.07,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,55.92,1,1,morning_1,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,39.88,2,1,morning_2,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,18.66,3,1,evening,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,27.64,4,2,morning_1,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,38.18,5,2,morning_2,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+6ukjc,9.05,6,2,evening,female,80.63,no,NA,NA,no,NA,NA,no,NA,NA
+insir,95.96,1,1,morning_1,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+insir,73.91,2,1,morning_2,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+insir,16.42,3,1,evening,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+insir,80.79,4,2,morning_1,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+insir,211.52,5,2,morning_2,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+insir,128.71,6,2,evening,male,35.04,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,179.04,1,1,morning_1,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,141.23,2,1,morning_2,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,40.59,3,1,evening,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,128.84,4,2,morning_1,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,102.69,5,2,morning_2,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+emdt4,62.71,6,2,evening,male,35.88,no,NA,NA,no,NA,NA,no,NA,NA
+kzkzc,NA,1,1,morning_1,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kzkzc,NA,2,1,morning_2,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kzkzc,NA,3,1,evening,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kzkzc,NA,4,2,morning_1,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kzkzc,NA,5,2,morning_2,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kzkzc,NA,6,2,evening,male,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+udav0,101.38,1,1,morning_1,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+udav0,65.17,2,1,morning_2,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+udav0,47.7,3,1,evening,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+udav0,121.72,4,2,morning_1,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+udav0,89.78,5,2,morning_2,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+udav0,27.56,6,2,evening,male,62.32,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,208.29,1,1,morning_1,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,4.82,2,1,morning_2,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,7.65,3,1,evening,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,149.34,4,2,morning_1,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,8.45,5,2,morning_2,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+t4p2a,57.95,6,2,evening,female,42.78,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,178.91,1,1,morning_1,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,100.73,2,1,morning_2,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,67.57,3,1,evening,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,95.97,4,2,morning_1,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,92.04,5,2,morning_2,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
+710xt,62.99,6,2,evening,male,65.32,no,NA,NA,no,NA,NA,no,NA,NA
